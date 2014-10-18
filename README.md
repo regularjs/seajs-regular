@@ -1,4 +1,4 @@
 seajs-regular
 =============
 
-Seajs Plugin for Regularjs
+暂时无法获知，可以将模板预编译的插件方式。  大家可以直接使用seajs官方 text! 插件来管理
